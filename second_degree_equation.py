@@ -1,3 +1,4 @@
+print('Hello!')
 def equation_2_D(a,b,c):
     import math
 
